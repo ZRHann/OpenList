@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width: 128px; height: 128px;" src="https://raw.githubusercontent.com/OpenListTeam/Logo/main/logo.svg" alt="logo" />
+  <img src="https://raw.githubusercontent.com/OpenListTeam/Logo/main/logo.svg" width="128" height="128" alt="logo" />
 
   <p><em>OpenList は、信頼ベースの攻撃からオープンソースを守るために構築された、レジリエントで長期ガバナンス、コミュニティ主導の AList フォークです。</em></p>
 
@@ -122,11 +122,16 @@ OpenListプロジェクトへのご支援とご理解をありがとうござい
 
 ## デモ
 
-N/A（再構築中）
+- 🌎 [グローバルデモ](https://demo.oplist.org)
+- 🇨🇳 [CNデモ](https://demo.oplist.org.cn)
 
 ## ディスカッション
 
 一般的な質問は [*Discussions*](https://github.com/OpenListTeam/OpenList/discussions) をご利用ください。***Issues* はバグ報告と機能リクエスト専用です。**
+
+## スポンサー
+
+[![VPS.Town](https://vps.town/static/images/sponsor.png)](https://vps.town "VPS.Town - Trust, Effortlessly. Your Cloud, Reimagined.")
 
 ## ライセンス
 

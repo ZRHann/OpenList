@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width: 128px; height: 128px;" src="https://raw.githubusercontent.com/OpenListTeam/Logo/main/logo.svg" alt="logo" />
+  <img src="https://raw.githubusercontent.com/OpenListTeam/Logo/main/logo.svg" width="128" height="128" alt="logo" />
 
   <p><em>OpenList is een veerkrachtige, langetermijn, door de gemeenschap geleide fork van AList — gebouwd om open source te beschermen tegen op vertrouwen gebaseerde aanvallen.</em></p>
 
@@ -122,11 +122,16 @@ Dank u voor uw ondersteuning en begrip
 
 ## Demo
 
-N.v.t. (wordt opnieuw opgebouwd)
+- 🌎 [Global Demo](https://demo.oplist.org)
+- 🇨🇳 [CN Demo](https://demo.oplist.org.cn)
 
 ## Discussie
 
 Stel algemene vragen in [*Discussions*](https://github.com/OpenListTeam/OpenList/discussions), ***Issues* zijn alleen voor bugmeldingen en feature requests.**
+
+## Sponsoren
+
+[![VPS.Town](https://vps.town/static/images/sponsor.png)](https://vps.town "VPS.Town - Trust, Effortlessly. Your Cloud, Reimagined.")
 
 ## Licentie
 
